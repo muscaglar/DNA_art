@@ -19,7 +19,7 @@ int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
     
-    io::LineReader in("/Users/Mus/Desktop/base_pairs_chromo.csv");
+    io::LineReader in("/Users/Mus/Downloads/genome_Mustafa_Caglar_v4_Full_20200126015749.txt");
     
     std::vector<std::string> pairs;
     std::vector<std::string> chromosomes;
